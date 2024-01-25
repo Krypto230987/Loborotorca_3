@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\Loborotorca_3.2\Loborotorca_3.2\bin\Debug\Loborotorca_3.2.exe.config
+C:\Users\User\source\repos\Loborotorca_3.2\Loborotorca_3.2\bin\Debug\Loborotorca_3.2.exe
+C:\Users\User\source\repos\Loborotorca_3.2\Loborotorca_3.2\bin\Debug\Loborotorca_3.2.pdb
+C:\Users\User\source\repos\Loborotorca_3.2\Loborotorca_3.2\obj\Debug\Loborotorca_3.2.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Loborotorca_3.2\Loborotorca_3.2\obj\Debug\Loborotorca_3.2.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Loborotorca_3.2\Loborotorca_3.2\obj\Debug\Loborotorca_3.2.exe
+C:\Users\User\source\repos\Loborotorca_3.2\Loborotorca_3.2\obj\Debug\Loborotorca_3.2.pdb
